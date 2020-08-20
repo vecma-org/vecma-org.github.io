@@ -13,6 +13,20 @@ an aspiring computer graphics researcher. He hopes that one day, Vecma will
 become a foundation taking the lead in the study, research, teaching, and
 application of the mentioned subjects.
 
+And it's not just all about studying and researching. At Vecma, we are also
+involved in advocating for the free software movement and computer ethics. This
+helps us ensure that everyone has the rights to access and build upon our
+resources, as well as using our knowledge in a way that benefits the globe.
+
+### Quick facts
+
+- **Name**: Vecma (portmanteau of _vector_ and _matrix_)
+- **Type**: Group, aiming to be a nonprofit organization in the future
+- **Founder**: [Nguyen Hoang Duong](mailto:you_create@protonmail.com)
+- **Interests**: Computer graphics, linear algebra, free software advocacy
+- **Website**: <https://vecma-org.github.io/>
+- **Presence**: [GitHub][github]
+
 We'd like to show you some of the projects we've begun. All of them are still
 heavy work in progress.
 
@@ -39,6 +53,23 @@ respectively.
 
 Vecma also provides links to existing linear algebra contents in
 [**Awesome Linear Algebra**](https://vecma-org.github.io/awesome-linear-algebra/).
+
+### Free software advocacy
+
+Through its projects, Vecma not only wants to stir everyone's interest in linear
+algebra and computer graphics, but also aims to foster the development of free
+software (free as in freedom). Most of our projects are dedication to the public
+domain. We also include notes and articles written about free software.
+
+> If you don't know what free software is, please, read about it
+> [here](https://www.gnu.org/philosophy/free-sw.html).
+
+We dedicate our work to the public domain by licensing it under the [Creative
+Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0),
+which is a well-recognized license. Some of our projects, like lnagb.js, are
+licensed under [The Unlicense](https://unlicense.org), which is another public
+domain license, but we are considering using the Creative Commons Zero for all
+of our projects.
 
 ### Website
 
