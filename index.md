@@ -101,7 +101,7 @@ they can be viewed and forked by anyone. Here's a list of our archived projects:
 If you are interested in our projects, want to join Vecma, or want to talk about
 linear algebra or computer graphics, we'd love to hear from you. :heart:
 
-Currently, the only way to contact us is probably by sending an letter to
+Currently, the only way to contact us is probably by sending a letter to
 <you_create@protonmail.com>. If you have questions or suggestions for a
 particular project, you can open an issue on GitHub in the related repository
 (this requires you to have a GitHub account).
