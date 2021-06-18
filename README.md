@@ -38,7 +38,7 @@ bundle exec jekyll serve
 To get the latest updates of the website, run
 
 ```shell
-git pull origin main
+git pull origin master
 ```
 
 ## License
